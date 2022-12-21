@@ -2,6 +2,7 @@
 
 Repositorio para el proyecto AEI-CLAB. Entregable de FabLab Barcelona conteniendo los perfiles de configuración de CURA para la [impresora de pasta de biomateriales](https://github.com/fablabbcn/aei-kit-impresion-pasta) y una copia del proyecto opensource de [slicer de Cura 5.2.1](https://github.com/Ultimaker/Cura). Los archivos de configuración ya no son necesarios para una instalación manual de la impresora, ya que viene por defecto incluido en el descargable del programa Cura a partir de la version 5.2.2.
 
+![](img/C:\Users\eduardo chamorro\Documents\Data\00-Work-Concursos\LAB-FabLabBarcelona\PROJECT-AIE22b-CLAB\Repo-aei-3dslicer-curaprofiles\img)
 
 ## Resumen de AEI-CLAB
 
@@ -30,7 +31,6 @@ Una vez se haya descargado ambos perfiles, coloque el perfil qe *definición de 
 Para los archivos de *definición de extrusores*, debe colocarlos en recursos/extrusores, o en los extrusores, en la carpeta de configuración del usuario dónde esté instalado Cura.
 
 
-
 Este repositorio contiene:
 
 - Archivo de definición de impresora[link](PastePrinter_machine_extruder_Definitions/fablabbcn_pasteprinter.def.json)
@@ -40,7 +40,10 @@ Este repositorio contiene:
 
 ## Descarga de Cura
 
+
 Aquí puedes encontrar los links de descarga de [CURA](https://ultimaker.com/es/software/ultimaker-cura) 5.2.1 para distintos sistemas operativos:
+
+![](img/ultimaker-cura-software-3d-printing-og.jpg)
 
 - Descarga para windows [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-win64.exe)
 - Descarga para MACOS [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-mac.dmg)
@@ -67,7 +70,12 @@ Partners del proyecto:
 
 -Santi Fuentemilla & Guillem Camprodon por coordinar y apoyar este proyecto.
 
+## Contribuciones
+
+Alentamos a que bifurque el proyecto y haga una solicitud con sus contribuciones al proyecto y desarollo de código y hardware libre.
 
 ## Licencia
 
-Estos diseños son de código abierto bajo licencia CERN Open Hardware Licence v1.2 para más detalles puedes consultar la [licencia completa](LICENSE)
+All the software unless stated is released under GNU GPL v3.0 and the hardware design files under CERN OHL v1.2
+
+Estos diseños son de código abierto bajo licencia de hardware CERN Open Hardware Licence v1.2 para más detalles puedes consultar la [licencia hardware completa](LICENSE-hardware) y licencia GNU GPL v3.0 para software,para más detalles puedes consultar la [licencia software completa](LICENSE-software)
