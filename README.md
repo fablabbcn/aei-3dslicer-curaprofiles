@@ -18,10 +18,15 @@ Si ya tiene instalado CURA y la impresora de pasta de biomateriales no está dis
 
 Para configurar su impresora, necesita al menos 2 tipos de archivos que llamamos archivos de definición:
 
-     - Un archivo de definición de máquina que define los atributos de su máquina. Puedes usar esto como una plantilla. Para obtener más detalles, puede consultar la página [Archivos de definición de máquinas](https://github.com/Ultimaker/Cura/wiki/Adding-new-machine-profiles-to-Cura).
-     - Un archivos de definición de extrusor que definen los atributos del extrusor en su máquina. Si su máquina solo tiene 1 extrusora, entonces solo necesita 1 archivo de definición de extrusora,como es esta caso. Consulte la página [Archivos de definición de máquinas](https://github.com/Ultimaker/Cura/wiki/Adding-new-machine-profiles-to-Cura) para obtener más detalles.
+- Un archivo de definición de máquina que define los atributos de su máquina. Puedes usar esto como una plantilla. Para obtener más detalles, puede consultar la página [Archivos de definición de máquinas](https://github.com/Ultimaker/Cura/wiki/Adding-new-machine-profiles-to-Cura).
+
+- Un archivos de definición de extrusor que definen los atributos del extrusor en su máquina. Si su máquina solo tiene 1 extrusora, entonces solo necesita 1 archivo de definición de extrusora,como es esta caso. Consulte la página [Archivos de definición de máquinas](https://github.com/Ultimaker/Cura/wiki/Adding-new-machine-profiles-to-Cura) para obtener más detalles.
 
 Una vez se haya descargado ambos perfiles, coloque el perfil qe *definición de máquina* en la carpeta de  **recursos/definiciones**, o en **definiciones**, en la carpeta de configuración del usuario dónde esté instalado Cura.
+
+        - Ejemplo de ruta
+        - *C:\Program Files\Ultimaker Cura 5.2.1\share\cura\resources*
+
 Para los archivos de *definición de extrusores*, debe colocarlos en recursos/extrusores, o en los extrusores, en la carpeta de configuración del usuario dónde esté instalado Cura.
 
 
@@ -37,9 +42,9 @@ Este repositorio contiene:
 
 Aquí puedes encontrar los links de descarga de [CURA](https://ultimaker.com/es/software/ultimaker-cura) 5.2.1 para distintos sistemas operativos:
 
-Descarga para windows [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-win64.exe)
-Descarga para MACOS [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-mac.dmg)
-Descarga para Linux [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-linux.AppImage)
+- Descarga para windows [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-win64.exe)
+- Descarga para MACOS [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-mac.dmg)
+- Descarga para Linux [link](https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-linux.AppImage)
 
 
 ## Créditos
