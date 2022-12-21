@@ -2,7 +2,7 @@
 
 Repositorio para el proyecto AEI-CLAB. Entregable de FabLab Barcelona conteniendo los perfiles de configuración de CURA para la [impresora de pasta de biomateriales](https://github.com/fablabbcn/aei-kit-impresion-pasta) y una copia del proyecto opensource de [slicer de Cura 5.2.1](https://github.com/Ultimaker/Cura). Los archivos de configuración ya no son necesarios para una instalación manual de la impresora, ya que viene por defecto incluido en el descargable del programa Cura a partir de la version 5.2.2.
 
-![](img/C:\Users\eduardo chamorro\Documents\Data\00-Work-Concursos\LAB-FabLabBarcelona\PROJECT-AIE22b-CLAB\Repo-aei-3dslicer-curaprofiles\img)
+![](img/cura3dpaste.jpg)
 
 ## Resumen de AEI-CLAB
 
