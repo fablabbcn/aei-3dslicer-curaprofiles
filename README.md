@@ -1,6 +1,6 @@
 # AEI-CLAB Cura Profiles
 
-Repositorio para el proyecto AEI-CLAB. Entregable de FabLab Barcelona conteniendo los perfiles de configuración de CURA para la [impresora de pasta de biomateriales](https://github.com/fablabbcn/aei-kit-impresion-pasta) y una copia del proyecto opensource de [slicer de Cura 5.2.1](https://github.com/Ultimaker/Cura). Los archivos de configuración ya no son necesarios para una instalación manual de la impresora, ya que viene por defecto incluido en el descargable del programa Cura a partir de la version 5.2.2.
+Repositorio para el proyecto AEI-CLAB. Entregable de FabLab Barcelona conteniendo los perfiles de configuración de CURA para la [impresora de pasta de biomateriales](https://github.com/fablabbcn/aei-kit-impresion-pasta) y una copia del proyecto opensource de [slicer de Cura 5.2.1](https://github.com/Ultimaker/Cura). Los archivos de configuración ya no son necesarios para una instalación manual de la impresora, ya que viene por defecto incluido en el descargable del programa Cura a partir de la version 5.3.0.
 
 ![](img/cura3dpaste.jpg)
 
@@ -15,7 +15,16 @@ El uso de la impresión 3D en la educación permite a los estudiantes desarrolla
 Este proyecto incluye talleres y actividades prácticas dirigidos a estudiantes de nivel secundario y universitario, en los que se enseñan los fundamentos de la impresión 3D y se explorarán las posibilidades de la pasta de biomateriales como material de impresión. Los participantes tendrán la oportunidad de diseñar y fabricar sus propios objetos utilizando esta tecnología, fomentando así su creatividad e innovación.
 Esperamos que este proyecto contribuya a la formación de una nueva generación de jóvenes comprometidos con la sostenibilidad y la tecnología, y que promueva el uso de la impresión 3D como herramienta educativa y de innovación.
 
-## Instalación de perfiles o software CURA con compatibilidad para la impresora de pasta y biomateriales
+
+## Instalación de compatibilidad para la impresora de pasta y biomateriales en CURA 5.3.0
+
+Descarge e instale Cura 5.3.0:
+
+- Descargar Cura 5.3.0 https://ultimaker.com/software/ultimaker-cura
+- Añada una impresora-->(non ultimaker printer)-->Non networked printer-->FablabBcn-->PastePrinter
+- Recuerde en temperatura de impresión poner 0 como valor.
+
+## Instalación de perfiles o software CURA anterior a 5.3.0
 
 Si ya tiene instalado CURA y la impresora de pasta de biomateriales no está disponible en el menú de añadir una nueva impresora bajo "FABLABBCN---PASTE PRINTER" y no está en la lista de impresoras compatibles, puede seguir esta guía para instalar perfiles de máquina para su slicer cura.
 
