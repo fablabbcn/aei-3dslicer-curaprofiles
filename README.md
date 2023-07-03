@@ -55,7 +55,6 @@ Este repositorio contiene:
 
 ## Descarga de Cura
 
-
 Aquí puedes encontrar los links de descarga de [CURA](https://ultimaker.com/es/software/ultimaker-cura) 5.2.1 para distintos sistemas operativos:
 
 ![](img/ultimaker-cura-software-3d-printing-og.jpg)
@@ -83,12 +82,12 @@ Partners del proyecto:
 
 ## Agradecimientos
 
--Santi Fuentemilla & Guillem Camprodon por coordinar y apoyar este proyecto.
+- Santi Fuentemilla & Guillem Camprodon por coordinar y apoyar este proyecto.
 
 ## Contribuciones
 
 Alentamos a que bifurque el proyecto y haga una solicitud con sus contribuciones al proyecto y desarollo de código y hardware libre.
 
 ## Licencia
-s
+
 Estos diseños son de código abierto bajo licencia de hardware CERN Open Hardware Licence v1.2 para más detalles puedes consultar la [licencia hardware completa](LICENSE-hardware) y licencia GNU GPL v3.0 para software,para más detalles puedes consultar la [licencia software completa](LICENSE-software)
